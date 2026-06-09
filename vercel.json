@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "name": "monitoring-mbg-kejari-muna",
+  "buildCommand": null,
+  "outputDirectory": ".",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/$1"
+    }
+  ]
+}
